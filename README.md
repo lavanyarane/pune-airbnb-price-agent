@@ -2,8 +2,6 @@
 
 A full-stack AI agent that predicts Airbnb listing prices in Pune, explains predictions via feature contributions, compares your listing to the market, and lets you set live price alerts.
 
-Built on top of **Minor Project 3** (Linear Regression) — extended into a real agentic application.
-
 ---
 
 ## Project Structure
