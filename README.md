@@ -119,16 +119,6 @@ Open http://localhost:5173 in your browser.
 
 ---
 
-## GitHub Upload Checklist
-
-1. Create repo: `pune-airbnb-price-agent`
-2. Upload the `backend/` folder (main.py + requirements.txt)
-3. Upload the `frontend/` folder (all files)
-4. Upload this `README.md`
-5. Do NOT upload: `venv/`, `node_modules/`, `*.joblib`, `alerts.json`
-
----
-
 ## Built with
 
 - Python 3.11 · FastAPI · scikit-learn · pandas · numpy · joblib
